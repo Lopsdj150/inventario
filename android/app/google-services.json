@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145226096402",
+    "project_id": "driveflutter-323802",
+    "storage_bucket": "driveflutter-323802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145226096402:android:422773e44f1608a92c1dcb",
+        "android_client_info": {
+          "package_name": "com.example.inventario_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145226096402-acciueqn5emqovuvi176sevjvfq32854.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1vkXAnff05B7_83O5vv-xMlnkitROtdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145226096402-acciueqn5emqovuvi176sevjvfq32854.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
